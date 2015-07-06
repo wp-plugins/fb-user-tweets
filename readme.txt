@@ -24,6 +24,6 @@ The plugin saves the tweets using WordPress transient. You can set the refresh t
 8. In your template file, call function fb_get_tweets() for raw data (objects) and loop through them or format_tweet() for html. You can also use [fb-get-tweets  count="3" offset="0"] inside a WordPress page / post content.
 
 == Screenshots ==
-1. Settings Page
-2. Cached Tweets
-3. Styling Page
+1. Add your Twitter app settings
+2. Preview cached tweets
+3. Few settings to style the output.
