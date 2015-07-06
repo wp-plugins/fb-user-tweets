@@ -6,7 +6,7 @@ Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2
 
-FB User Tweets plugin uses the Twitter API to get tweets from a user's timeline cache them. You can use a function or shortcode to print them.
+FB User Tweets plugin uses the Twitter API to get tweets from a user's timeline and cache them. You can use a function or shortcode to print them.
 
 == Description ==
 FB Get Tweets plugin uses the Twitter API to get tweets from a user's timeline and display them on your WordPress site. You need to create a Twitter application and generate a user access token.
