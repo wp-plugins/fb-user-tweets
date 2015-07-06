@@ -6,10 +6,10 @@ Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2
 
-FB Get Tweets plugin uses the Twitter API to get tweets from a user\'s timeline and display them on your WordPress site.
+FB Get Tweets plugin uses the Twitter API to get tweets from a user's timeline and display them on your WordPress site.
 
 == Description ==
-FB Get Tweets plugin uses the Twitter API to get tweets from a user\'s timeline and display them on your WordPress site. You need to create a Twitter application and generate a user access token.
+FB Get Tweets plugin uses the Twitter API to get tweets from a user's timeline and display them on your WordPress site. You need to create a Twitter application and generate a user access token.
 FB Get Tweets Plugin provides a nice interface to add the settings, view cached tweets and style the output.
 The plugin saves the tweets using WordPress transient. You can set the refresh time (expiration) from the settings interface.
 
@@ -25,5 +25,5 @@ Call function fb_get_tweets() for raw data (objects) or format_tweet for html
 
 == Screenshots ==
 1. Settings Page
-2. Styling Page
-3. Cached Tweets
+2. Cached Tweets
+3. Styling Page
