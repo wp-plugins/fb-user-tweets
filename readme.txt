@@ -21,7 +21,7 @@ The plugin saves the tweets using WordPress transient. You can set the refresh t
 5. Configure the plugin (Twitter API KEY and User Token) by going to the FB Tweets Settings
 6. Configure the plugin stye by going to the FB Tweets Style
 7. Configure the plugin stye by going to the FB Tweets Style
-8. Call function fb_get_tweets() for raw data (objects) or format_tweet for html
+8. In your template file, call function fb_get_tweets() for raw data (objects) and loop through them or format_tweet() for html. You can also use [fb-get-tweets  count="3" offset="0"] inside a WordPress page / post content.
 
 == Screenshots ==
 1. Settings Page
